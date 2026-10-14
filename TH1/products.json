@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "iphone 18",
+    "price": 300000,
+    "cate_id": "1",
+    "image":"https://www.apple.com/vn/shop/product/ma7f4fe/a/%E1%BB%91p-l%C6%B0ng-trong-su%E1%BB%91t-magsafe-cho-iphone-16-pro-max"
+  },
+  {
+    "id": "2",
+    "name": "iphone 13 promax",
+    "price": 400000,
+    "cate_id": "1",
+    "image":"https://www.apple.com/vn/shop/product/ma7f4fe/a/%E1%BB%91p-l%C6%B0ng-trong-su%E1%BB%91t-magsafe-cho-iphone-16-pro-max"
+  },
+  {
+    "id": "3",
+    "name": "iphone 16",
+    "price": 500000,
+    "cate_id": "1",
+    "image":"https://www.apple.com/vn/shop/product/ma7f4fe/a/%E1%BB%91p-l%C6%B0ng-trong-su%E1%BB%91t-magsafe-cho-iphone-16-pro-max"
+  }
+]

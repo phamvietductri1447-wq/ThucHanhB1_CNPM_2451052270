@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route("/")
 def index():
     cates = dao.load_categories()
-    return render_template("index.html" , cates =cates)
+    return render_template("index.html" , cates =cates , prods=dao.load_products())
 
 if __name__=="__main__":
     app.run(debug=True)
